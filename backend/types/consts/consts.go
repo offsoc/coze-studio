@@ -107,3 +107,8 @@ const (
 	ApplyUploadActionURI = "/api/common/upload/apply_upload_action"
 	UploadURI            = "/api/common/upload"
 )
+
+const (
+	RegistrationControllerEnabled      = "REGISTRATION_CONTROLLER_ENABLED"
+	RegistrationControllerAllowedEmail = "REGISTRATION_CONTROLLER_ALLOWED_EMAIL"
+)
